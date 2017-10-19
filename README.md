@@ -5,3 +5,6 @@ Scrape any Wikipedia article with image (optional) without opening any browser.
     1. Change your current directory to this directory.
     2. Open terminal here.
     3. Type "python wiki.py --help" to know how to use it.
+
+## Demo
+![Demo](https://github.com/hmnhGeek/Wikipedia-Scraper/wiki_extractor.gif)
