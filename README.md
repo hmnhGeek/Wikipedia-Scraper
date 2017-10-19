@@ -7,4 +7,4 @@ Scrape any Wikipedia article with image (optional) without opening any browser.
     3. Type "python wiki.py --help" to know how to use it.
 
 ## Demo
-![Demo](https://github.com/hmnhGeek/Wikipedia-Scraper/wiki_extractor.gif)
+![Demo](https://github.com/hmnhGeek/Wikipedia-Scraper/blob/master/wiki_extractor.gif)
